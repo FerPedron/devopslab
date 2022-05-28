@@ -1,7 +1,7 @@
 # Nome do Workflow
 name: DevOpsLab Pipeline
 
-# Evento que irá acionar a pipelinee
+# Evento que irá acionar a pipeli
 on: 
   push:
     branches:
