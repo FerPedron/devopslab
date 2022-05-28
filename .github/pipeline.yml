@@ -1,5 +1,5 @@
 # Nome do Workflow...
-ame: DevOpsLab Pipeline
+name: DevOpsLab Pipeline
 
 # Evento que irá acionar a pipeline
 on: 
